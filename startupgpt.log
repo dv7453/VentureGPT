@@ -1,0 +1,1176 @@
+2024-11-02 20:10:14,725 INFO:Starting StartupGPT Workflow
+2024-11-02 20:10:14,726 INFO:Starting legal analysis.
+2024-11-02 20:10:14,726 INFO:Fetched regulations for industry: Technology
+2024-11-02 20:10:14,726 INFO:Generated compliance checklist.
+2024-11-02 20:10:14,726 INFO:Assessed legal risks.
+2024-11-02 20:10:14,727 INFO:Legal analysis completed successfully.
+2024-11-02 20:10:14,727 INFO:Stored Legal output for idea_id: idea_003
+2024-11-02 20:10:14,727 INFO:Legal analysis stored successfully.
+2024-11-02 20:10:14,728 INFO:Starting economic analysis.
+2024-11-02 20:10:14,728 INFO:Fetched market data for industry: Technology
+2024-11-02 20:10:14,728 INFO:Generated financial projections.
+2024-11-02 20:10:14,728 INFO:Conducted competitive analysis.
+2024-11-02 20:10:14,728 INFO:Economic analysis completed successfully.
+2024-11-02 20:10:14,728 INFO:Stored Economics output for idea_id: idea_003
+2024-11-02 20:10:14,728 INFO:Economic analysis stored successfully.
+2024-11-02 20:10:14,729 INFO:Starting business structure analysis.
+2024-11-02 20:10:14,729 INFO:Proposed business models for industry: Technology
+2024-11-02 20:10:14,729 INFO:Mapped organizational structure for company size: Startup
+2024-11-02 20:10:14,729 INFO:Planned scalability for business model: Subscription
+2024-11-02 20:10:14,729 INFO:Business structure analysis completed successfully.
+2024-11-02 20:10:14,729 INFO:Stored BusinessStructure output for idea_id: idea_003
+2024-11-02 20:10:14,729 INFO:Business structure analysis stored successfully.
+2024-11-02 20:10:14,730 INFO:Starting report generation.
+2024-11-02 20:10:14,730 INFO:Aggregated data for idea_id: idea_003
+2024-11-02 20:10:14,730 INFO:Summarized aggregated data successfully.
+2024-11-02 20:10:14,884 ERROR:Error querying Llama: HTTPSConnectionPool(host='grqoclound.api', port=443): Max retries exceeded with url: /llama (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x74a6311382b0>: Failed to resolve 'grqoclound.api' ([Errno -2] Name or service not known)"))
+2024-11-02 20:10:14,885 ERROR:Error enhancing summary with Llama: 'GeneralizedAgentHelper' object has no attribute 'parse_llama_response'
+2024-11-02 20:10:14,885 INFO:Formatted report successfully.
+2024-11-02 20:10:14,885 INFO:Report generation completed successfully.
+2024-11-02 20:10:14,885 INFO:Stored ComprehensiveReport output for idea_id: idea_003
+2024-11-02 20:10:14,885 INFO:Comprehensive report stored successfully.
+2024-11-02 21:27:24,603 INFO:Starting StartupGPT Workflow
+2024-11-02 21:27:24,604 ERROR:Environment variable LEGAL_AGENT_API_KEY not set.
+2024-11-02 21:28:50,395 INFO:Starting StartupGPT Workflow
+2024-11-02 21:29:33,424 INFO:Starting StartupGPT Workflow
+2024-11-02 21:30:06,924 INFO:Starting StartupGPT Workflow
+2024-11-02 21:30:06,946 INFO:Starting legal analysis.
+2024-11-02 21:30:06,946 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-02 21:30:06,947 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-02 21:30:06,947 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-02 21:30:06,947 INFO:Legal analysis completed successfully.
+2024-11-02 21:30:06,947 INFO:Stored Legal output for idea_id: idea_003
+2024-11-02 21:30:06,947 INFO:Legal analysis stored successfully.
+2024-11-02 21:30:06,969 INFO:Starting economic analysis.
+2024-11-02 21:30:06,969 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-02 21:30:06,969 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-02 21:30:06,969 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-02 21:30:06,969 INFO:Economic analysis completed successfully.
+2024-11-02 21:30:06,969 INFO:Stored Economics output for idea_id: idea_003
+2024-11-02 21:30:06,969 INFO:Economic analysis stored successfully.
+2024-11-02 21:30:06,991 INFO:Starting business structure analysis.
+2024-11-02 21:30:06,991 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-02 21:30:06,991 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-02 21:30:06,991 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-02 21:30:06,991 INFO:Business structure analysis completed successfully.
+2024-11-02 21:30:06,991 INFO:Stored BusinessStructure output for idea_id: idea_003
+2024-11-02 21:30:06,991 INFO:Business structure analysis stored successfully.
+2024-11-02 21:30:07,013 INFO:Starting report generation.
+2024-11-02 21:30:07,013 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-02 21:30:07,013 INFO:Stored ComprehensiveReport output for idea_id: idea_003
+2024-11-02 21:30:07,013 INFO:Comprehensive report stored successfully.
+2024-11-09 20:19:47,686 INFO:Starting StartupGPT Workflow
+2024-11-09 20:19:47,709 INFO:Starting legal analysis.
+2024-11-09 20:19:47,709 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:19:47,709 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:19:47,709 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:19:47,709 INFO:Legal analysis completed successfully.
+2024-11-09 20:19:47,710 INFO:Stored Legal output for idea_id: idea_003
+2024-11-09 20:19:47,710 INFO:Legal analysis stored successfully.
+2024-11-09 20:19:47,731 INFO:Starting economic analysis.
+2024-11-09 20:19:47,731 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:19:47,731 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:19:47,731 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:19:47,731 INFO:Economic analysis completed successfully.
+2024-11-09 20:19:47,731 INFO:Stored Economics output for idea_id: idea_003
+2024-11-09 20:19:47,731 INFO:Economic analysis stored successfully.
+2024-11-09 20:19:47,754 INFO:Starting business structure analysis.
+2024-11-09 20:19:47,754 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:19:47,754 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:19:47,754 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:19:47,754 INFO:Business structure analysis completed successfully.
+2024-11-09 20:19:47,755 INFO:Stored BusinessStructure output for idea_id: idea_003
+2024-11-09 20:19:47,755 INFO:Business structure analysis stored successfully.
+2024-11-09 20:19:47,776 INFO:Starting report generation.
+2024-11-09 20:19:47,776 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 20:19:47,776 INFO:Stored ComprehensiveReport output for idea_id: idea_003
+2024-11-09 20:19:47,777 INFO:Comprehensive report stored successfully.
+2024-11-09 20:20:19,162 INFO:Starting StartupGPT Workflow
+2024-11-09 20:20:19,185 INFO:Starting legal analysis.
+2024-11-09 20:20:19,186 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:19,186 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:19,186 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:19,186 INFO:Legal analysis completed successfully.
+2024-11-09 20:20:19,186 INFO:Stored Legal output for idea_id: idea_003
+2024-11-09 20:20:19,186 INFO:Legal analysis stored successfully.
+2024-11-09 20:20:19,208 INFO:Starting economic analysis.
+2024-11-09 20:20:19,208 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:19,208 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:19,208 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:19,208 INFO:Economic analysis completed successfully.
+2024-11-09 20:20:19,208 INFO:Stored Economics output for idea_id: idea_003
+2024-11-09 20:20:19,208 INFO:Economic analysis stored successfully.
+2024-11-09 20:20:19,231 INFO:Starting business structure analysis.
+2024-11-09 20:20:19,231 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:19,231 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:19,231 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:19,231 INFO:Business structure analysis completed successfully.
+2024-11-09 20:20:19,231 INFO:Stored BusinessStructure output for idea_id: idea_003
+2024-11-09 20:20:19,231 INFO:Business structure analysis stored successfully.
+2024-11-09 20:20:19,253 INFO:Starting report generation.
+2024-11-09 20:20:19,254 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 20:20:19,254 INFO:Stored ComprehensiveReport output for idea_id: idea_003
+2024-11-09 20:20:19,254 INFO:Comprehensive report stored successfully.
+2024-11-09 20:20:30,699 INFO:Starting StartupGPT Workflow
+2024-11-09 20:20:30,722 INFO:Starting legal analysis.
+2024-11-09 20:20:30,723 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:30,723 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:30,723 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:30,723 INFO:Legal analysis completed successfully.
+2024-11-09 20:20:30,723 INFO:Stored Legal output for idea_id: idea_001
+2024-11-09 20:20:30,723 INFO:Legal analysis stored successfully.
+2024-11-09 20:20:30,745 INFO:Starting economic analysis.
+2024-11-09 20:20:30,745 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:30,745 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:30,745 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:30,745 INFO:Economic analysis completed successfully.
+2024-11-09 20:20:30,745 INFO:Stored Economics output for idea_id: idea_001
+2024-11-09 20:20:30,745 INFO:Economic analysis stored successfully.
+2024-11-09 20:20:30,769 INFO:Starting business structure analysis.
+2024-11-09 20:20:30,769 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:30,769 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:30,769 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:20:30,769 INFO:Business structure analysis completed successfully.
+2024-11-09 20:20:30,769 INFO:Stored BusinessStructure output for idea_id: idea_001
+2024-11-09 20:20:30,769 INFO:Business structure analysis stored successfully.
+2024-11-09 20:20:30,791 INFO:Starting report generation.
+2024-11-09 20:20:30,791 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 20:20:30,791 INFO:Stored ComprehensiveReport output for idea_id: idea_001
+2024-11-09 20:20:30,791 INFO:Comprehensive report stored successfully.
+2024-11-09 20:23:41,128 INFO:Starting StartupGPT Workflow
+2024-11-09 20:23:41,151 INFO:Starting legal analysis.
+2024-11-09 20:23:41,151 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:23:41,151 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:23:41,151 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:23:41,151 INFO:Legal analysis completed successfully.
+2024-11-09 20:23:41,151 INFO:Stored Legal output for idea_id: idea_001
+2024-11-09 20:23:41,151 INFO:Legal analysis stored successfully.
+2024-11-09 20:23:41,173 INFO:Starting economic analysis.
+2024-11-09 20:23:41,173 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:23:41,174 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:23:41,174 ERROR:Error sending prompt to Llama via Groq: Completions.create() got an unexpected keyword argument 'prompt'
+2024-11-09 20:23:41,174 INFO:Economic analysis completed successfully.
+2024-11-09 20:23:41,174 INFO:Stored Economics output for idea_id: idea_001
+2024-11-09 20:23:41,174 INFO:Economic analysis stored successfully.
+2024-11-09 20:23:41,195 INFO:Starting business structure analysis.
+2024-11-09 20:23:41,533 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-09 20:23:41,534 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages' : value must be an array", 'type': 'invalid_request_error'}}
+2024-11-09 20:23:41,798 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-09 20:23:41,798 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages' : value must be an array", 'type': 'invalid_request_error'}}
+2024-11-09 20:23:42,063 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-09 20:23:42,064 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages' : value must be an array", 'type': 'invalid_request_error'}}
+2024-11-09 20:23:42,064 INFO:Business structure analysis completed successfully.
+2024-11-09 20:23:42,064 INFO:Stored BusinessStructure output for idea_id: idea_001
+2024-11-09 20:23:42,064 INFO:Business structure analysis stored successfully.
+2024-11-09 20:23:42,087 INFO:Starting report generation.
+2024-11-09 20:23:42,087 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 20:23:42,088 INFO:Stored ComprehensiveReport output for idea_id: idea_001
+2024-11-09 20:23:42,088 INFO:Comprehensive report stored successfully.
+2024-11-09 21:08:10,361 INFO:Starting StartupGPT Workflow
+2024-11-09 21:08:10,385 INFO:Starting legal analysis.
+2024-11-09 21:08:11,473 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:08:11,475 ERROR:Error sending prompt to Llama via Groq: 'ChatCompletion' object is not subscriptable
+2024-11-09 21:08:12,343 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:08:12,344 ERROR:Error sending prompt to Llama via Groq: 'ChatCompletion' object is not subscriptable
+2024-11-09 21:08:13,325 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:08:13,326 ERROR:Error sending prompt to Llama via Groq: 'ChatCompletion' object is not subscriptable
+2024-11-09 21:08:13,326 INFO:Legal analysis completed successfully.
+2024-11-09 21:08:13,326 INFO:Stored Legal output for idea_id: idea_002
+2024-11-09 21:08:13,326 INFO:Legal analysis stored successfully.
+2024-11-09 21:08:13,350 INFO:Starting economic analysis.
+2024-11-09 21:08:14,396 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:08:14,397 ERROR:Error sending prompt to Llama via Groq: 'ChatCompletion' object is not subscriptable
+2024-11-09 21:08:15,437 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:08:15,438 ERROR:Error sending prompt to Llama via Groq: 'ChatCompletion' object is not subscriptable
+2024-11-09 21:08:16,449 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:08:16,450 ERROR:Error sending prompt to Llama via Groq: 'ChatCompletion' object is not subscriptable
+2024-11-09 21:08:16,450 INFO:Economic analysis completed successfully.
+2024-11-09 21:08:16,450 INFO:Stored Economics output for idea_id: idea_002
+2024-11-09 21:08:16,450 INFO:Economic analysis stored successfully.
+2024-11-09 21:08:16,473 INFO:Starting business structure analysis.
+2024-11-09 21:08:17,619 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:08:17,620 ERROR:Error sending prompt to Llama via Groq: 'ChatCompletion' object is not subscriptable
+2024-11-09 21:08:18,630 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:08:18,631 ERROR:Error sending prompt to Llama via Groq: 'ChatCompletion' object is not subscriptable
+2024-11-09 21:08:19,343 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:08:19,344 ERROR:Error sending prompt to Llama via Groq: 'ChatCompletion' object is not subscriptable
+2024-11-09 21:08:19,344 INFO:Business structure analysis completed successfully.
+2024-11-09 21:08:19,344 INFO:Stored BusinessStructure output for idea_id: idea_002
+2024-11-09 21:08:19,344 INFO:Business structure analysis stored successfully.
+2024-11-09 21:08:19,367 INFO:Starting report generation.
+2024-11-09 21:08:19,367 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:08:19,367 INFO:Stored ComprehensiveReport output for idea_id: idea_002
+2024-11-09 21:08:19,367 INFO:Comprehensive report stored successfully.
+2024-11-09 21:11:22,560 INFO:Starting StartupGPT Workflow
+2024-11-09 21:11:22,583 INFO:Starting legal analysis.
+2024-11-09 21:11:23,132 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:11:23,537 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:11:23,857 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:11:24,211 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:11:24,544 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:11:24,838 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:11:24,838 INFO:Legal analysis completed successfully.
+2024-11-09 21:11:24,838 INFO:Stored Legal output for idea_id: idea_004
+2024-11-09 21:11:24,839 INFO:Legal analysis stored successfully.
+2024-11-09 21:11:24,863 INFO:Starting economic analysis.
+2024-11-09 21:11:25,273 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:11:25,906 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:11:26,411 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:11:26,872 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:11:27,405 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:11:27,631 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:11:27,631 INFO:Economic analysis completed successfully.
+2024-11-09 21:11:27,632 INFO:Stored Economics output for idea_id: idea_004
+2024-11-09 21:11:27,632 INFO:Economic analysis stored successfully.
+2024-11-09 21:11:27,655 INFO:Starting business structure analysis.
+2024-11-09 21:11:28,048 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:11:28,486 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:11:28,911 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:11:29,250 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:11:29,682 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:11:29,834 INFO:Business structure analysis completed successfully.
+2024-11-09 21:11:29,835 INFO:Stored BusinessStructure output for idea_id: idea_004
+2024-11-09 21:11:29,835 INFO:Business structure analysis stored successfully.
+2024-11-09 21:11:29,870 INFO:Starting report generation.
+2024-11-09 21:11:29,870 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:11:29,870 INFO:Stored ComprehensiveReport output for idea_id: idea_004
+2024-11-09 21:11:29,870 INFO:Comprehensive report stored successfully.
+2024-11-09 21:15:00,305 INFO:Starting StartupGPT Workflow
+2024-11-09 21:15:00,329 INFO:Starting legal analysis.
+2024-11-09 21:15:00,842 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:15:01,175 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:15:01,511 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:15:01,933 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:15:02,245 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:15:02,685 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:15:02,685 INFO:Legal analysis completed successfully.
+2024-11-09 21:15:02,686 INFO:Stored Legal output for idea_id: idea_005
+2024-11-09 21:15:02,686 INFO:Legal analysis stored successfully.
+2024-11-09 21:15:02,710 INFO:Starting economic analysis.
+2024-11-09 21:15:03,081 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:15:03,478 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:15:03,857 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:15:04,479 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:15:04,783 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:15:05,197 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:15:05,197 INFO:Economic analysis completed successfully.
+2024-11-09 21:15:05,197 INFO:Stored Economics output for idea_id: idea_005
+2024-11-09 21:15:05,197 INFO:Economic analysis stored successfully.
+2024-11-09 21:15:05,220 INFO:Starting business structure analysis.
+2024-11-09 21:15:05,806 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:15:06,052 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:15:06,497 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:15:06,946 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:15:07,364 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:15:07,497 INFO:Business structure analysis completed successfully.
+2024-11-09 21:15:07,498 INFO:Stored BusinessStructure output for idea_id: idea_005
+2024-11-09 21:15:07,498 INFO:Business structure analysis stored successfully.
+2024-11-09 21:15:07,521 INFO:Starting report generation.
+2024-11-09 21:15:07,521 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:15:07,521 INFO:Stored ComprehensiveReport output for idea_id: idea_005
+2024-11-09 21:15:07,521 INFO:Comprehensive report stored successfully.
+2024-11-09 21:16:55,121 INFO:Starting StartupGPT Workflow
+2024-11-09 21:16:55,144 INFO:Starting legal analysis.
+2024-11-09 21:16:55,714 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:16:56,211 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:16:56,589 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:16:56,935 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:16:57,233 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:16:57,643 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:16:57,643 INFO:Legal analysis completed successfully.
+2024-11-09 21:16:57,643 INFO:Stored Legal output for idea_id: idea_005
+2024-11-09 21:16:57,644 INFO:Legal analysis stored successfully.
+2024-11-09 21:16:57,666 INFO:Starting economic analysis.
+2024-11-09 21:16:58,295 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:16:58,418 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:16:58,758 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:16:59,153 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:16:59,486 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:17:00,107 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:17:00,107 INFO:Economic analysis completed successfully.
+2024-11-09 21:17:00,107 INFO:Stored Economics output for idea_id: idea_005
+2024-11-09 21:17:00,107 INFO:Economic analysis stored successfully.
+2024-11-09 21:17:00,130 INFO:Starting business structure analysis.
+2024-11-09 21:17:00,563 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:17:01,624 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:17:02,430 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:17:02,726 ERROR:Error formatting analysis: 'str' object has no attribute 'items'
+2024-11-09 21:17:02,726 INFO:Business structure analysis completed successfully.
+2024-11-09 21:17:02,727 INFO:Stored BusinessStructure output for idea_id: idea_005
+2024-11-09 21:17:02,727 INFO:Business structure analysis stored successfully.
+2024-11-09 21:17:02,751 INFO:Starting report generation.
+2024-11-09 21:17:02,751 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:17:02,751 INFO:Stored ComprehensiveReport output for idea_id: idea_005
+2024-11-09 21:17:02,751 INFO:Comprehensive report stored successfully.
+2024-11-09 21:19:41,109 INFO:Starting StartupGPT Workflow
+2024-11-09 21:19:41,133 INFO:Starting legal analysis.
+2024-11-09 21:19:41,560 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:19:42,312 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:19:42,853 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:19:43,060 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:19:43,358 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:19:44,037 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:19:44,037 INFO:Legal analysis completed successfully.
+2024-11-09 21:19:44,038 INFO:Stored Legal output for idea_id: idea_006
+2024-11-09 21:19:44,038 INFO:Legal analysis stored successfully.
+2024-11-09 21:19:44,060 INFO:Starting economic analysis.
+2024-11-09 21:19:44,441 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:19:45,073 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:19:45,539 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:19:45,835 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:19:46,202 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:19:46,590 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:19:46,591 INFO:Economic analysis completed successfully.
+2024-11-09 21:19:46,591 INFO:Stored Economics output for idea_id: idea_006
+2024-11-09 21:19:46,591 INFO:Economic analysis stored successfully.
+2024-11-09 21:19:46,615 INFO:Starting business structure analysis.
+2024-11-09 21:19:47,120 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:19:47,509 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:19:47,804 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:19:48,147 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 23 (char 43)
+2024-11-09 21:19:48,471 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:19:48,920 INFO:Business structure analysis completed successfully.
+2024-11-09 21:19:48,920 INFO:Stored BusinessStructure output for idea_id: idea_006
+2024-11-09 21:19:48,920 INFO:Business structure analysis stored successfully.
+2024-11-09 21:19:48,943 INFO:Starting report generation.
+2024-11-09 21:19:48,943 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:19:48,944 INFO:Stored ComprehensiveReport output for idea_id: idea_006
+2024-11-09 21:19:48,944 INFO:Comprehensive report stored successfully.
+2024-11-09 21:20:35,925 INFO:Starting StartupGPT Workflow
+2024-11-09 21:20:35,949 INFO:Starting legal analysis.
+2024-11-09 21:20:36,280 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:20:36,730 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:20:37,079 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:20:37,342 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:20:37,735 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:20:38,105 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:20:38,105 INFO:Legal analysis completed successfully.
+2024-11-09 21:20:38,105 INFO:Stored Legal output for idea_id: idea_006
+2024-11-09 21:20:38,106 INFO:Legal analysis stored successfully.
+2024-11-09 21:20:38,128 INFO:Starting economic analysis.
+2024-11-09 21:20:38,498 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:20:38,976 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:20:39,302 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:20:39,656 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:20:40,163 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:20:40,452 ERROR:Error decoding JSON response: Expecting value: line 1 column 1 (char 0)
+2024-11-09 21:20:40,452 INFO:Economic analysis completed successfully.
+2024-11-09 21:20:40,453 INFO:Stored Economics output for idea_id: idea_006
+2024-11-09 21:20:40,453 INFO:Economic analysis stored successfully.
+2024-11-09 21:20:40,476 INFO:Starting business structure analysis.
+2024-11-09 21:20:40,815 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:20:41,749 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:20:42,293 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 61 column 2 (char 1763)
+2024-11-09 21:20:42,780 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:20:43,474 INFO:Business structure analysis completed successfully.
+2024-11-09 21:20:43,475 INFO:Stored BusinessStructure output for idea_id: idea_006
+2024-11-09 21:20:43,475 INFO:Business structure analysis stored successfully.
+2024-11-09 21:20:43,497 INFO:Starting report generation.
+2024-11-09 21:20:43,497 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:20:43,498 INFO:Stored ComprehensiveReport output for idea_id: idea_006
+2024-11-09 21:20:43,498 INFO:Comprehensive report stored successfully.
+2024-11-09 21:25:22,349 INFO:Starting StartupGPT Workflow
+2024-11-09 21:25:22,373 INFO:Starting legal analysis.
+2024-11-09 21:25:22,958 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:25:23,506 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 15 column 7 (char 578)
+2024-11-09 21:25:23,890 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:25:24,774 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:25:25,126 INFO:Legal analysis completed successfully.
+2024-11-09 21:25:25,127 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:25:25,127 INFO:Legal analysis stored successfully.
+2024-11-09 21:25:25,151 INFO:Starting economic analysis.
+2024-11-09 21:25:25,523 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:25:25,682 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 3 column 14 (char 32)
+2024-11-09 21:25:26,230 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:25:26,239 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 16 column 2 (char 205)
+2024-11-09 21:25:26,579 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:25:27,271 ERROR:Error decoding JSON response: Unterminated string starting at: line 41 column 19 (char 2086)
+2024-11-09 21:25:27,271 INFO:Economic analysis completed successfully.
+2024-11-09 21:25:27,272 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:25:27,272 INFO:Economic analysis stored successfully.
+2024-11-09 21:25:27,296 INFO:Starting business structure analysis.
+2024-11-09 21:25:27,803 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:25:28,796 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:25:29,163 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 19 (char 37)
+2024-11-09 21:25:29,474 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:25:29,860 INFO:Business structure analysis completed successfully.
+2024-11-09 21:25:29,861 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:25:29,861 INFO:Business structure analysis stored successfully.
+2024-11-09 21:25:29,883 INFO:Starting report generation.
+2024-11-09 21:25:29,884 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:25:29,884 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:25:29,884 INFO:Comprehensive report stored successfully.
+2024-11-09 21:28:49,413 INFO:Starting StartupGPT Workflow
+2024-11-09 21:28:49,437 INFO:Starting legal analysis.
+2024-11-09 21:28:49,900 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:28:50,397 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:28:51,095 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:28:51,461 INFO:Legal analysis completed successfully.
+2024-11-09 21:28:51,462 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:28:51,462 INFO:Legal analysis stored successfully.
+2024-11-09 21:28:51,486 INFO:Starting economic analysis.
+2024-11-09 21:28:51,852 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:28:53,137 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:28:53,301 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 16 column 2 (char 210)
+2024-11-09 21:28:53,627 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:28:54,076 ERROR:Error decoding JSON response: Unterminated string starting at: line 80 column 7 (char 2073)
+2024-11-09 21:28:54,076 INFO:Economic analysis completed successfully.
+2024-11-09 21:28:54,076 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:28:54,076 INFO:Economic analysis stored successfully.
+2024-11-09 21:28:54,100 INFO:Starting business structure analysis.
+2024-11-09 21:28:54,775 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:28:55,487 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:28:56,024 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 30 (char 48)
+2024-11-09 21:28:56,363 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:28:56,544 INFO:Business structure analysis completed successfully.
+2024-11-09 21:28:56,545 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:28:56,545 INFO:Business structure analysis stored successfully.
+2024-11-09 21:28:56,569 INFO:Starting report generation.
+2024-11-09 21:28:56,569 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:28:56,570 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:28:56,570 INFO:Comprehensive report stored successfully.
+2024-11-09 21:30:05,757 INFO:Starting StartupGPT Workflow
+2024-11-09 21:30:05,782 INFO:Starting legal analysis.
+2024-11-09 21:30:06,267 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:06,870 ERROR:Error decoding JSON response: Expecting value: line 58 column 5 (char 2400)
+2024-11-09 21:30:07,187 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:07,593 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:08,108 INFO:Legal analysis completed successfully.
+2024-11-09 21:30:08,109 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:30:08,109 INFO:Legal analysis stored successfully.
+2024-11-09 21:30:08,134 INFO:Starting economic analysis.
+2024-11-09 21:30:08,493 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:09,244 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:09,331 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 16 column 2 (char 210)
+2024-11-09 21:30:09,841 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:09,938 INFO:Economic analysis completed successfully.
+2024-11-09 21:30:09,939 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:30:09,939 INFO:Economic analysis stored successfully.
+2024-11-09 21:30:09,963 INFO:Starting business structure analysis.
+2024-11-09 21:30:10,303 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:11,010 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:11,416 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 37 (char 57)
+2024-11-09 21:30:11,894 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:11,963 INFO:Business structure analysis completed successfully.
+2024-11-09 21:30:11,964 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:30:11,964 INFO:Business structure analysis stored successfully.
+2024-11-09 21:30:11,987 INFO:Starting report generation.
+2024-11-09 21:30:11,987 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:30:11,988 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:30:11,988 INFO:Comprehensive report stored successfully.
+2024-11-09 21:30:53,008 INFO:Starting StartupGPT Workflow
+2024-11-09 21:30:53,033 INFO:Starting legal analysis.
+2024-11-09 21:30:53,436 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:53,976 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 13 column 1 (char 490)
+2024-11-09 21:30:54,376 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:54,789 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:55,018 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 14 column 171 (char 1935)
+2024-11-09 21:30:55,018 INFO:Legal analysis completed successfully.
+2024-11-09 21:30:55,018 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:30:55,018 INFO:Legal analysis stored successfully.
+2024-11-09 21:30:55,041 INFO:Starting economic analysis.
+2024-11-09 21:30:55,538 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:55,828 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 3 column 13 (char 31)
+2024-11-09 21:30:56,187 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:56,837 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:56,990 INFO:Economic analysis completed successfully.
+2024-11-09 21:30:56,990 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:30:56,990 INFO:Economic analysis stored successfully.
+2024-11-09 21:30:57,014 INFO:Starting business structure analysis.
+2024-11-09 21:30:57,398 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:57,816 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 2 column 127 (char 128)
+2024-11-09 21:30:58,167 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:58,376 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 19 (char 37)
+2024-11-09 21:30:58,873 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:30:58,973 INFO:Business structure analysis completed successfully.
+2024-11-09 21:30:58,973 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:30:58,973 INFO:Business structure analysis stored successfully.
+2024-11-09 21:30:58,996 INFO:Starting report generation.
+2024-11-09 21:30:58,996 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:30:58,997 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:30:58,997 INFO:Comprehensive report stored successfully.
+2024-11-09 21:31:49,637 INFO:Starting StartupGPT Workflow
+2024-11-09 21:31:49,661 INFO:Starting legal analysis.
+2024-11-09 21:31:50,110 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:31:50,368 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 21 column 2 (char 1723)
+2024-11-09 21:31:50,922 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:31:51,283 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:31:51,607 INFO:Legal analysis completed successfully.
+2024-11-09 21:31:51,607 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:31:51,607 INFO:Legal analysis stored successfully.
+2024-11-09 21:31:51,631 INFO:Starting economic analysis.
+2024-11-09 21:31:52,160 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:31:52,339 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 3 column 15 (char 33)
+2024-11-09 21:31:52,713 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:31:53,248 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:31:53,789 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 4 column 25 (char 56)
+2024-11-09 21:31:53,790 INFO:Economic analysis completed successfully.
+2024-11-09 21:31:53,790 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:31:53,790 INFO:Economic analysis stored successfully.
+2024-11-09 21:31:53,813 INFO:Starting business structure analysis.
+2024-11-09 21:31:54,285 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:31:55,013 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:31:55,304 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 33 (char 51)
+2024-11-09 21:31:55,613 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:31:55,978 INFO:Business structure analysis completed successfully.
+2024-11-09 21:31:55,979 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:31:55,979 INFO:Business structure analysis stored successfully.
+2024-11-09 21:31:56,002 INFO:Starting report generation.
+2024-11-09 21:31:56,002 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:31:56,002 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:31:56,002 INFO:Comprehensive report stored successfully.
+2024-11-09 21:34:33,402 INFO:Starting StartupGPT Workflow
+2024-11-09 21:34:33,425 INFO:Starting legal analysis.
+2024-11-09 21:34:34,066 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:34:34,409 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 57 column 2 (char 1826)
+2024-11-09 21:34:34,824 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:34:35,173 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:34:35,347 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 10 column 126 (char 1276)
+2024-11-09 21:34:35,347 INFO:Legal analysis completed successfully.
+2024-11-09 21:34:35,348 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:34:35,348 INFO:Legal analysis stored successfully.
+2024-11-09 21:34:35,370 INFO:Starting economic analysis.
+2024-11-09 21:34:36,222 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:34:37,121 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:34:37,459 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:34:37,653 INFO:Economic analysis completed successfully.
+2024-11-09 21:34:37,653 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:34:37,654 INFO:Economic analysis stored successfully.
+2024-11-09 21:34:37,677 INFO:Starting business structure analysis.
+2024-11-09 21:34:38,039 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:34:39,384 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:34:39,872 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 19 (char 37)
+2024-11-09 21:34:40,286 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:34:40,466 INFO:Business structure analysis completed successfully.
+2024-11-09 21:34:40,467 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:34:40,467 INFO:Business structure analysis stored successfully.
+2024-11-09 21:34:40,491 INFO:Starting report generation.
+2024-11-09 21:34:40,491 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:34:40,491 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:34:40,491 INFO:Comprehensive report stored successfully.
+2024-11-09 21:35:57,803 INFO:Starting StartupGPT Workflow
+2024-11-09 21:35:57,830 INFO:Starting legal analysis.
+2024-11-09 21:35:58,198 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:35:58,839 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:35:59,515 ERROR:Error decoding JSON response: Unterminated string starting at: line 23 column 3 (char 2383)
+2024-11-09 21:36:00,276 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:36:00,770 INFO:Legal analysis completed successfully.
+2024-11-09 21:36:00,770 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:36:00,770 INFO:Legal analysis stored successfully.
+2024-11-09 21:36:00,794 INFO:Starting economic analysis.
+2024-11-09 21:36:01,156 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:36:01,306 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 4 column 15 (char 51)
+2024-11-09 21:36:01,676 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:36:01,743 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 16 column 2 (char 203)
+2024-11-09 21:36:02,066 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:36:02,220 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 4 column 25 (char 56)
+2024-11-09 21:36:02,220 INFO:Economic analysis completed successfully.
+2024-11-09 21:36:02,220 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:36:02,220 INFO:Economic analysis stored successfully.
+2024-11-09 21:36:02,243 INFO:Starting business structure analysis.
+2024-11-09 21:36:02,764 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:36:03,657 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:36:03,765 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 37 (char 57)
+2024-11-09 21:36:04,137 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:36:04,354 INFO:Business structure analysis completed successfully.
+2024-11-09 21:36:04,355 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:36:04,355 INFO:Business structure analysis stored successfully.
+2024-11-09 21:36:04,379 INFO:Starting report generation.
+2024-11-09 21:36:04,379 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:36:04,379 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:36:04,379 INFO:Comprehensive report stored successfully.
+2024-11-09 21:37:29,210 INFO:Starting StartupGPT Workflow
+2024-11-09 21:37:29,234 INFO:Starting legal analysis.
+2024-11-09 21:37:29,930 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:37:30,703 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:37:31,625 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:37:32,001 ERROR:Error formatting analysis: sequence item 0: expected str instance, dict found
+2024-11-09 21:37:32,001 INFO:Legal analysis completed successfully.
+2024-11-09 21:37:32,002 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:37:32,002 INFO:Legal analysis stored successfully.
+2024-11-09 21:37:32,025 INFO:Starting economic analysis.
+2024-11-09 21:37:32,387 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:37:32,509 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 3 column 13 (char 31)
+2024-11-09 21:37:32,815 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:37:33,401 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:37:33,707 INFO:Economic analysis completed successfully.
+2024-11-09 21:37:33,707 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:37:33,707 INFO:Economic analysis stored successfully.
+2024-11-09 21:37:33,731 INFO:Starting business structure analysis.
+2024-11-09 21:37:34,121 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:37:34,762 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:37:34,997 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 19 (char 29)
+2024-11-09 21:37:35,311 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:37:35,560 INFO:Business structure analysis completed successfully.
+2024-11-09 21:37:35,560 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:37:35,560 INFO:Business structure analysis stored successfully.
+2024-11-09 21:37:35,582 INFO:Starting report generation.
+2024-11-09 21:37:35,582 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:37:35,583 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:37:35,583 INFO:Comprehensive report stored successfully.
+2024-11-09 21:38:09,692 INFO:Starting StartupGPT Workflow
+2024-11-09 21:38:09,715 INFO:Starting legal analysis.
+2024-11-09 21:38:10,113 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:38:10,507 ERROR:Error decoding JSON response: Expecting property name enclosed in double quotes: line 67 column 4 (char 2129)
+2024-11-09 21:38:10,890 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:38:11,182 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:38:11,432 INFO:Legal analysis completed successfully.
+2024-11-09 21:38:11,432 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:38:11,432 INFO:Legal analysis stored successfully.
+2024-11-09 21:38:11,458 INFO:Starting economic analysis.
+2024-11-09 21:38:11,843 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:38:12,811 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:38:13,182 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:38:13,486 INFO:Economic analysis completed successfully.
+2024-11-09 21:38:13,486 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:38:13,486 INFO:Economic analysis stored successfully.
+2024-11-09 21:38:13,509 INFO:Starting business structure analysis.
+2024-11-09 21:38:13,852 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:38:15,051 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:38:15,204 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 19 (char 37)
+2024-11-09 21:38:15,629 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:38:15,832 INFO:Business structure analysis completed successfully.
+2024-11-09 21:38:15,832 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:38:15,832 INFO:Business structure analysis stored successfully.
+2024-11-09 21:38:15,857 INFO:Starting report generation.
+2024-11-09 21:38:15,857 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:38:15,857 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:38:15,857 INFO:Comprehensive report stored successfully.
+2024-11-09 21:41:55,170 INFO:Starting StartupGPT Workflow
+2024-11-09 21:41:55,194 INFO:Starting legal analysis.
+2024-11-09 21:41:55,591 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:41:56,216 ERROR:Error decoding JSON response: Expecting property name enclosed in double quotes: line 52 column 3 (char 2276)
+2024-11-09 21:41:56,515 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:41:56,862 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:41:57,154 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 11 column 191 (char 2022)
+2024-11-09 21:41:57,154 INFO:Legal analysis completed successfully.
+2024-11-09 21:41:57,155 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:41:57,155 INFO:Legal analysis stored successfully.
+2024-11-09 21:41:57,177 INFO:Starting economic analysis.
+2024-11-09 21:41:57,569 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:41:57,734 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 3 column 13 (char 31)
+2024-11-09 21:41:58,063 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:41:58,287 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 16 column 2 (char 206)
+2024-11-09 21:41:58,604 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:41:58,909 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 4 column 25 (char 71)
+2024-11-09 21:41:58,909 ERROR:Error formatting analysis: 'str' object has no attribute 'get'
+2024-11-09 21:41:58,909 INFO:Economic analysis completed successfully.
+2024-11-09 21:41:58,909 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:41:58,909 INFO:Economic analysis stored successfully.
+2024-11-09 21:41:58,932 INFO:Starting business structure analysis.
+2024-11-09 21:41:59,277 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:41:59,688 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 37 column 4 (char 2359)
+2024-11-09 21:42:00,038 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:42:00,319 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 23 (char 43)
+2024-11-09 21:42:00,777 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:42:00,883 INFO:Business structure analysis completed successfully.
+2024-11-09 21:42:00,884 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:42:00,884 INFO:Business structure analysis stored successfully.
+2024-11-09 21:42:00,907 INFO:Starting report generation.
+2024-11-09 21:42:00,907 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:42:00,907 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:42:00,907 INFO:Comprehensive report stored successfully.
+2024-11-09 21:42:52,903 INFO:Starting StartupGPT Workflow
+2024-11-09 21:42:52,927 INFO:Starting legal analysis.
+2024-11-09 21:42:53,278 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:42:53,850 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 57 column 2 (char 1867)
+2024-11-09 21:42:54,183 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:42:54,498 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:42:54,959 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 12 column 135 (char 1449)
+2024-11-09 21:42:54,959 INFO:Legal analysis completed successfully.
+2024-11-09 21:42:54,959 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:42:54,959 INFO:Legal analysis stored successfully.
+2024-11-09 21:42:54,983 INFO:Starting economic analysis.
+2024-11-09 21:42:55,309 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:42:55,907 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:42:56,015 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 16 column 2 (char 207)
+2024-11-09 21:42:56,335 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:42:56,634 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 4 column 25 (char 51)
+2024-11-09 21:42:56,634 ERROR:Error formatting analysis: 'str' object has no attribute 'items'
+2024-11-09 21:42:56,634 INFO:Economic analysis completed successfully.
+2024-11-09 21:42:56,634 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:42:56,634 INFO:Economic analysis stored successfully.
+2024-11-09 21:42:56,658 INFO:Starting business structure analysis.
+2024-11-09 21:42:56,984 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:42:57,747 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:42:58,336 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:42:58,575 INFO:Business structure analysis completed successfully.
+2024-11-09 21:42:58,576 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:42:58,576 INFO:Business structure analysis stored successfully.
+2024-11-09 21:42:58,598 INFO:Starting report generation.
+2024-11-09 21:42:58,598 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:42:58,599 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:42:58,599 INFO:Comprehensive report stored successfully.
+2024-11-09 21:43:05,435 INFO:Starting StartupGPT Workflow
+2024-11-09 21:43:05,459 INFO:Starting legal analysis.
+2024-11-09 21:43:05,805 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:06,461 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:07,002 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:07,237 INFO:Legal analysis completed successfully.
+2024-11-09 21:43:07,238 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:43:07,238 INFO:Legal analysis stored successfully.
+2024-11-09 21:43:07,260 INFO:Starting economic analysis.
+2024-11-09 21:43:07,585 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:07,938 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 3 column 13 (char 31)
+2024-11-09 21:43:08,259 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:08,487 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 16 column 2 (char 209)
+2024-11-09 21:43:09,099 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:09,362 ERROR:Error formatting analysis: 'str' object has no attribute 'get'
+2024-11-09 21:43:09,362 INFO:Economic analysis completed successfully.
+2024-11-09 21:43:09,363 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:43:09,363 INFO:Economic analysis stored successfully.
+2024-11-09 21:43:09,386 INFO:Starting business structure analysis.
+2024-11-09 21:43:09,715 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:10,409 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:10,731 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 37 (char 57)
+2024-11-09 21:43:11,031 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:11,503 INFO:Business structure analysis completed successfully.
+2024-11-09 21:43:11,503 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:43:11,503 INFO:Business structure analysis stored successfully.
+2024-11-09 21:43:11,527 INFO:Starting report generation.
+2024-11-09 21:43:11,527 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:43:11,527 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:43:11,528 INFO:Comprehensive report stored successfully.
+2024-11-09 21:43:17,842 INFO:Starting StartupGPT Workflow
+2024-11-09 21:43:17,867 INFO:Starting legal analysis.
+2024-11-09 21:43:18,248 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:18,686 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 55 column 80 (char 2279)
+2024-11-09 21:43:18,997 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:18,998 ERROR:Error decoding JSON response: Expecting value: line 1 column 2 (char 1)
+2024-11-09 21:43:19,352 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:19,562 INFO:Legal analysis completed successfully.
+2024-11-09 21:43:19,563 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:43:19,563 INFO:Legal analysis stored successfully.
+2024-11-09 21:43:19,586 INFO:Starting economic analysis.
+2024-11-09 21:43:19,938 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:20,688 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:20,911 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 16 column 2 (char 213)
+2024-11-09 21:43:21,291 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:21,723 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 4 column 25 (char 55)
+2024-11-09 21:43:21,723 ERROR:Error formatting analysis: 'str' object has no attribute 'items'
+2024-11-09 21:43:21,723 INFO:Economic analysis completed successfully.
+2024-11-09 21:43:21,723 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:43:21,723 INFO:Economic analysis stored successfully.
+2024-11-09 21:43:21,746 INFO:Starting business structure analysis.
+2024-11-09 21:43:22,125 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:22,784 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:23,229 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 23 (char 43)
+2024-11-09 21:43:23,527 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:23,814 INFO:Business structure analysis completed successfully.
+2024-11-09 21:43:23,814 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:43:23,814 INFO:Business structure analysis stored successfully.
+2024-11-09 21:43:23,839 INFO:Starting report generation.
+2024-11-09 21:43:23,839 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:43:23,839 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:43:23,839 INFO:Comprehensive report stored successfully.
+2024-11-09 21:43:26,802 INFO:Starting StartupGPT Workflow
+2024-11-09 21:43:26,826 INFO:Starting legal analysis.
+2024-11-09 21:43:27,163 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:27,610 ERROR:Error decoding JSON response: Unterminated string starting at: line 24 column 102 (char 2261)
+2024-11-09 21:43:27,943 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:28,263 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:28,530 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 2 column 151 (char 152)
+2024-11-09 21:43:28,530 INFO:Legal analysis completed successfully.
+2024-11-09 21:43:28,530 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:43:28,530 INFO:Legal analysis stored successfully.
+2024-11-09 21:43:28,554 INFO:Starting economic analysis.
+2024-11-09 21:43:28,881 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:29,171 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 3 column 14 (char 32)
+2024-11-09 21:43:29,479 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:29,826 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 31 column 2 (char 553)
+2024-11-09 21:43:30,131 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:30,548 ERROR:Error formatting analysis: 'str' object has no attribute 'get'
+2024-11-09 21:43:30,548 INFO:Economic analysis completed successfully.
+2024-11-09 21:43:30,548 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:43:30,548 INFO:Economic analysis stored successfully.
+2024-11-09 21:43:30,572 INFO:Starting business structure analysis.
+2024-11-09 21:43:30,917 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:31,485 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:32,017 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 23 (char 43)
+2024-11-09 21:43:32,312 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:43:32,541 INFO:Business structure analysis completed successfully.
+2024-11-09 21:43:32,541 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:43:32,541 INFO:Business structure analysis stored successfully.
+2024-11-09 21:43:32,564 INFO:Starting report generation.
+2024-11-09 21:43:32,564 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:43:32,565 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:43:32,565 INFO:Comprehensive report stored successfully.
+2024-11-09 21:44:13,974 INFO:Starting StartupGPT Workflow
+2024-11-09 21:44:13,999 INFO:Starting legal analysis.
+2024-11-09 21:44:14,360 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:44:14,687 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 24 column 2 (char 1274)
+2024-11-09 21:44:14,997 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:44:15,294 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:44:16,077 INFO:Legal analysis completed successfully.
+2024-11-09 21:44:16,078 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:44:16,078 INFO:Legal analysis stored successfully.
+2024-11-09 21:44:16,100 INFO:Starting economic analysis.
+2024-11-09 21:44:16,429 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:44:17,183 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:44:17,258 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 16 column 2 (char 211)
+2024-11-09 21:44:17,554 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:44:17,729 ERROR:Error formatting analysis: 'str' object has no attribute 'items'
+2024-11-09 21:44:17,729 INFO:Economic analysis completed successfully.
+2024-11-09 21:44:17,729 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:44:17,729 INFO:Economic analysis stored successfully.
+2024-11-09 21:44:17,752 INFO:Starting business structure analysis.
+2024-11-09 21:44:18,239 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:44:18,901 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:44:19,340 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 54 column 2 (char 2384)
+2024-11-09 21:44:19,639 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:44:19,979 INFO:Business structure analysis completed successfully.
+2024-11-09 21:44:19,980 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:44:19,980 INFO:Business structure analysis stored successfully.
+2024-11-09 21:44:20,003 INFO:Starting report generation.
+2024-11-09 21:44:20,003 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:44:20,003 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:44:20,003 INFO:Comprehensive report stored successfully.
+2024-11-09 21:45:22,087 INFO:Starting StartupGPT Workflow
+2024-11-09 21:45:22,111 INFO:Starting legal analysis.
+2024-11-09 21:45:22,441 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:23,065 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:23,902 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:24,280 INFO:Legal analysis completed successfully.
+2024-11-09 21:45:24,281 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:45:24,281 INFO:Legal analysis stored successfully.
+2024-11-09 21:45:24,304 INFO:Starting economic analysis.
+2024-11-09 21:45:24,619 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:25,126 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-09 21:45:25,126 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : value must be a string) OR ('messages.0.content.0' : one of the following must be satisfied[('messages.0.content.0' : value must be an object) OR ('messages.0.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}}
+2024-11-09 21:45:25,432 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:25,607 ERROR:Error formatting analysis: 'str' object has no attribute 'items'
+2024-11-09 21:45:25,608 INFO:Economic analysis completed successfully.
+2024-11-09 21:45:25,608 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:45:25,608 INFO:Economic analysis stored successfully.
+2024-11-09 21:45:25,630 INFO:Starting business structure analysis.
+2024-11-09 21:45:25,972 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:26,765 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:27,456 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:27,930 INFO:Business structure analysis completed successfully.
+2024-11-09 21:45:27,930 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:45:27,930 INFO:Business structure analysis stored successfully.
+2024-11-09 21:45:27,953 INFO:Starting report generation.
+2024-11-09 21:45:27,953 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:45:27,953 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:45:27,953 INFO:Comprehensive report stored successfully.
+2024-11-09 21:45:47,912 INFO:Starting StartupGPT Workflow
+2024-11-09 21:45:47,935 INFO:Starting legal analysis.
+2024-11-09 21:45:48,267 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:48,662 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 50 (char 77)
+2024-11-09 21:45:48,980 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:49,282 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:49,645 INFO:Legal analysis completed successfully.
+2024-11-09 21:45:49,646 INFO:Stored Legal output for idea_id: idea_007
+2024-11-09 21:45:49,646 INFO:Legal analysis stored successfully.
+2024-11-09 21:45:49,669 INFO:Starting economic analysis.
+2024-11-09 21:45:50,154 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:50,820 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-09 21:45:50,821 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : value must be a string) OR ('messages.0.content.0' : one of the following must be satisfied[('messages.0.content.0' : value must be an object) OR ('messages.0.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}}
+2024-11-09 21:45:51,146 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:51,408 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 4 column 25 (char 56)
+2024-11-09 21:45:51,408 ERROR:Error formatting analysis: 'str' object has no attribute 'items'
+2024-11-09 21:45:51,409 INFO:Economic analysis completed successfully.
+2024-11-09 21:45:51,409 INFO:Stored Economics output for idea_id: idea_007
+2024-11-09 21:45:51,409 INFO:Economic analysis stored successfully.
+2024-11-09 21:45:51,432 INFO:Starting business structure analysis.
+2024-11-09 21:45:51,770 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:52,300 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:53,275 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-09 21:45:53,539 INFO:Business structure analysis completed successfully.
+2024-11-09 21:45:53,540 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-09 21:45:53,540 INFO:Business structure analysis stored successfully.
+2024-11-09 21:45:53,562 INFO:Starting report generation.
+2024-11-09 21:45:53,562 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-09 21:45:53,563 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-09 21:45:53,563 INFO:Comprehensive report stored successfully.
+2024-11-10 01:37:11,835 INFO:Starting StartupGPT Workflow
+2024-11-10 01:37:11,858 INFO:Starting legal analysis.
+2024-11-10 01:37:12,207 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:37:12,502 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 61 column 2 (char 1764)
+2024-11-10 01:37:12,798 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:37:13,100 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:37:13,440 INFO:Legal analysis completed successfully.
+2024-11-10 01:37:13,440 INFO:Stored Legal output for idea_id: idea_007
+2024-11-10 01:37:13,440 INFO:Legal analysis stored successfully.
+2024-11-10 01:37:13,461 INFO:Starting economic analysis.
+2024-11-10 01:37:13,777 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:37:14,485 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-10 01:37:14,486 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : value must be a string) OR ('messages.0.content.0' : one of the following must be satisfied[('messages.0.content.0' : value must be an object) OR ('messages.0.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}}
+2024-11-10 01:37:14,785 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:37:15,251 ERROR:Error formatting analysis: 'str' object has no attribute 'items'
+2024-11-10 01:37:15,251 INFO:Economic analysis completed successfully.
+2024-11-10 01:37:15,252 INFO:Stored Economics output for idea_id: idea_007
+2024-11-10 01:37:15,252 INFO:Economic analysis stored successfully.
+2024-11-10 01:37:15,274 INFO:Starting business structure analysis.
+2024-11-10 01:37:15,669 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:37:16,303 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:37:16,782 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 23 (char 43)
+2024-11-10 01:37:17,087 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:37:17,340 INFO:Business structure analysis completed successfully.
+2024-11-10 01:37:17,341 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-10 01:37:17,341 INFO:Business structure analysis stored successfully.
+2024-11-10 01:37:17,363 INFO:Starting report generation.
+2024-11-10 01:37:17,363 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-10 01:37:17,363 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-10 01:37:17,363 INFO:Comprehensive report stored successfully.
+2024-11-10 01:39:06,404 INFO:Starting StartupGPT Workflow
+2024-11-10 01:39:06,425 INFO:Starting legal analysis.
+2024-11-10 01:39:06,867 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:07,624 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 25 column 2 (char 2653)
+2024-11-10 01:39:07,929 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:08,239 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:08,773 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 13 column 147 (char 1878)
+2024-11-10 01:39:08,773 INFO:Legal analysis completed successfully.
+2024-11-10 01:39:08,773 INFO:Stored Legal output for idea_id: idea_007
+2024-11-10 01:39:08,773 INFO:Legal analysis stored successfully.
+2024-11-10 01:39:08,796 INFO:Starting economic analysis.
+2024-11-10 01:39:09,124 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:09,823 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-10 01:39:09,823 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : value must be a string) OR ('messages.0.content.0' : one of the following must be satisfied[('messages.0.content.0' : value must be an object) OR ('messages.0.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}}
+2024-11-10 01:39:10,170 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:10,422 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 4 column 25 (char 56)
+2024-11-10 01:39:10,423 INFO:Economic analysis completed successfully.
+2024-11-10 01:39:10,423 INFO:Stored Economics output for idea_id: idea_007
+2024-11-10 01:39:10,423 INFO:Economic analysis stored successfully.
+2024-11-10 01:39:10,447 INFO:Starting business structure analysis.
+2024-11-10 01:39:10,900 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:11,710 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:12,188 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 34 (char 46)
+2024-11-10 01:39:12,485 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:12,914 INFO:Business structure analysis completed successfully.
+2024-11-10 01:39:12,915 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-10 01:39:12,915 INFO:Business structure analysis stored successfully.
+2024-11-10 01:39:12,937 INFO:Starting report generation.
+2024-11-10 01:39:12,937 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-10 01:39:12,937 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-10 01:39:12,937 INFO:Comprehensive report stored successfully.
+2024-11-10 01:39:34,180 INFO:Starting StartupGPT Workflow
+2024-11-10 01:39:34,203 INFO:Starting legal analysis.
+2024-11-10 01:39:34,524 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:35,181 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 61 column 2 (char 1689)
+2024-11-10 01:39:35,487 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:35,803 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:36,162 INFO:Legal analysis completed successfully.
+2024-11-10 01:39:36,163 INFO:Stored Legal output for idea_id: idea_007
+2024-11-10 01:39:36,163 INFO:Legal analysis stored successfully.
+2024-11-10 01:39:36,185 INFO:Starting economic analysis.
+2024-11-10 01:39:36,496 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:37,054 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-10 01:39:37,054 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : value must be a string) OR ('messages.0.content.0' : one of the following must be satisfied[('messages.0.content.0' : value must be an object) OR ('messages.0.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}}
+2024-11-10 01:39:37,381 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:37,624 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 4 column 25 (char 52)
+2024-11-10 01:39:37,625 INFO:Economic analysis completed successfully.
+2024-11-10 01:39:37,625 INFO:Stored Economics output for idea_id: idea_007
+2024-11-10 01:39:37,625 INFO:Economic analysis stored successfully.
+2024-11-10 01:39:37,646 INFO:Starting business structure analysis.
+2024-11-10 01:39:38,003 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:38,202 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 10 column 136 (char 1263)
+2024-11-10 01:39:38,507 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:38,944 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 23 (char 43)
+2024-11-10 01:39:39,238 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:39:39,593 INFO:Business structure analysis completed successfully.
+2024-11-10 01:39:39,593 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-10 01:39:39,593 INFO:Business structure analysis stored successfully.
+2024-11-10 01:39:39,615 INFO:Starting report generation.
+2024-11-10 01:39:39,615 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-10 01:39:39,615 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-10 01:39:39,615 INFO:Comprehensive report stored successfully.
+2024-11-10 01:43:03,049 INFO:Starting StartupGPT Workflow
+2024-11-10 01:43:03,071 INFO:Starting legal analysis.
+2024-11-10 01:43:03,389 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:43:04,044 ERROR:Error decoding JSON response: Unterminated string starting at: line 52 column 21 (char 2294)
+2024-11-10 01:43:04,387 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:43:04,691 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:43:04,934 INFO:Legal analysis completed successfully.
+2024-11-10 01:43:04,935 INFO:Stored Legal output for idea_id: idea_007
+2024-11-10 01:43:04,935 INFO:Legal analysis stored successfully.
+2024-11-10 01:43:04,957 INFO:Starting economic analysis.
+2024-11-10 01:43:05,301 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:43:05,435 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 3 column 14 (char 32)
+2024-11-10 01:43:06,455 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-10 01:43:06,455 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : value must be a string) OR ('messages.0.content.0' : one of the following must be satisfied[('messages.0.content.0' : value must be an object) OR ('messages.0.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}}
+2024-11-10 01:43:06,755 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:43:07,193 ERROR:Error formatting analysis: 'str' object has no attribute 'get'
+2024-11-10 01:43:07,193 INFO:Economic analysis completed successfully.
+2024-11-10 01:43:07,193 INFO:Stored Economics output for idea_id: idea_007
+2024-11-10 01:43:07,193 INFO:Economic analysis stored successfully.
+2024-11-10 01:43:07,215 INFO:Starting business structure analysis.
+2024-11-10 01:43:07,532 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:43:08,434 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:43:08,736 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 19 (char 37)
+2024-11-10 01:43:09,039 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:43:09,470 INFO:Business structure analysis completed successfully.
+2024-11-10 01:43:09,471 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-10 01:43:09,471 INFO:Business structure analysis stored successfully.
+2024-11-10 01:43:09,493 INFO:Starting report generation.
+2024-11-10 01:43:09,493 ERROR:Error during report generation: 'GeneralizedAgentHelper' object has no attribute 'aggregate_data'
+2024-11-10 01:43:09,493 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-10 01:43:09,493 INFO:Comprehensive report stored successfully.
+2024-11-10 01:58:17,671 INFO:Starting StartupGPT Workflow
+2024-11-10 01:58:17,694 INFO:Starting legal analysis.
+2024-11-10 01:58:18,168 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:58:18,899 ERROR:Error decoding JSON response: Unterminated string starting at: line 67 column 16 (char 2290)
+2024-11-10 01:58:19,200 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:58:19,509 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:58:19,906 INFO:Legal analysis completed successfully.
+2024-11-10 01:58:19,906 INFO:Stored Legal output for idea_id: idea_007
+2024-11-10 01:58:19,906 INFO:Legal analysis stored successfully.
+2024-11-10 01:58:19,928 INFO:Starting economic analysis.
+2024-11-10 01:58:20,244 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:58:20,571 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 3 column 14 (char 32)
+2024-11-10 01:58:20,833 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-10 01:58:20,833 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : value must be a string) OR ('messages.0.content.0' : one of the following must be satisfied[('messages.0.content.0' : value must be an object) OR ('messages.0.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}}
+2024-11-10 01:58:21,122 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:58:21,311 ERROR:Error formatting analysis: 'str' object has no attribute 'get'
+2024-11-10 01:58:21,312 INFO:Economic analysis completed successfully.
+2024-11-10 01:58:21,312 INFO:Stored Economics output for idea_id: idea_007
+2024-11-10 01:58:21,312 INFO:Economic analysis stored successfully.
+2024-11-10 01:58:21,333 INFO:Starting business structure analysis.
+2024-11-10 01:58:21,647 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:58:22,271 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 12 column 192 (char 2031)
+2024-11-10 01:58:22,677 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:58:22,857 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 23 (char 43)
+2024-11-10 01:58:23,149 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:58:23,624 INFO:Business structure analysis completed successfully.
+2024-11-10 01:58:23,625 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-10 01:58:23,625 INFO:Business structure analysis stored successfully.
+2024-11-10 01:58:23,647 INFO:Starting report generation.
+2024-11-10 01:58:23,648 INFO:Aggregated data for idea_id: idea_007
+2024-11-10 01:58:24,003 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:58:24,776 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 01:58:25,238 INFO:Report generation completed successfully.
+2024-11-10 01:58:25,238 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-10 01:58:25,238 INFO:Comprehensive report stored successfully.
+2024-11-10 20:48:12,449 INFO:Starting StartupGPT Workflow
+2024-11-10 20:48:12,474 INFO:Starting legal analysis.
+2024-11-10 20:48:12,866 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:48:13,293 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 65 column 55 (char 2034)
+2024-11-10 20:48:13,588 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:48:13,897 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:48:14,243 INFO:Legal analysis completed successfully.
+2024-11-10 20:48:14,243 INFO:Stored Legal output for idea_id: idea_007
+2024-11-10 20:48:14,243 INFO:Legal analysis stored successfully.
+2024-11-10 20:48:14,266 INFO:Starting economic analysis.
+2024-11-10 20:48:14,720 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:48:15,068 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 3 column 13 (char 31)
+2024-11-10 20:48:15,338 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-10 20:48:15,338 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : value must be a string) OR ('messages.0.content.0' : one of the following must be satisfied[('messages.0.content.0' : value must be an object) OR ('messages.0.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}}
+2024-11-10 20:48:15,720 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:48:15,948 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 4 column 25 (char 56)
+2024-11-10 20:48:15,949 ERROR:Error formatting analysis: 'str' object has no attribute 'get'
+2024-11-10 20:48:15,949 INFO:Economic analysis completed successfully.
+2024-11-10 20:48:15,949 INFO:Stored Economics output for idea_id: idea_007
+2024-11-10 20:48:15,949 INFO:Economic analysis stored successfully.
+2024-11-10 20:48:15,971 INFO:Starting business structure analysis.
+2024-11-10 20:48:16,296 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:48:17,047 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:48:17,381 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 23 (char 43)
+2024-11-10 20:48:17,837 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:48:18,357 INFO:Business structure analysis completed successfully.
+2024-11-10 20:48:18,358 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-10 20:48:18,358 INFO:Business structure analysis stored successfully.
+2024-11-10 20:48:18,381 INFO:Starting report generation.
+2024-11-10 20:48:18,381 INFO:Aggregated data for idea_id: idea_007
+2024-11-10 20:48:18,918 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:48:19,885 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:48:20,519 INFO:Report generation completed successfully.
+2024-11-10 20:48:20,520 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-10 20:48:20,520 INFO:Comprehensive report stored successfully.
+2024-11-10 20:49:15,506 INFO:Starting StartupGPT Workflow
+2024-11-10 20:49:15,528 INFO:Starting legal analysis.
+2024-11-10 20:49:15,850 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:49:16,484 ERROR:Error decoding JSON response: Unterminated string starting at: line 69 column 5 (char 2203)
+2024-11-10 20:49:16,780 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:49:17,076 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:49:17,463 INFO:Legal analysis completed successfully.
+2024-11-10 20:49:17,463 INFO:Stored Legal output for idea_id: idea_007
+2024-11-10 20:49:17,463 INFO:Legal analysis stored successfully.
+2024-11-10 20:49:17,486 INFO:Starting economic analysis.
+2024-11-10 20:49:17,816 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:49:18,068 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 3 column 13 (char 31)
+2024-11-10 20:49:18,343 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-10 20:49:18,343 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : value must be a string) OR ('messages.0.content.0' : one of the following must be satisfied[('messages.0.content.0' : value must be an object) OR ('messages.0.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}}
+2024-11-10 20:49:18,641 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:49:18,835 ERROR:Error decoding JSON response: Expecting ',' delimiter: line 4 column 25 (char 56)
+2024-11-10 20:49:18,835 ERROR:Error formatting analysis: 'str' object has no attribute 'get'
+2024-11-10 20:49:18,835 INFO:Economic analysis completed successfully.
+2024-11-10 20:49:18,836 INFO:Stored Economics output for idea_id: idea_007
+2024-11-10 20:49:18,836 INFO:Economic analysis stored successfully.
+2024-11-10 20:49:18,857 INFO:Starting business structure analysis.
+2024-11-10 20:49:19,215 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:49:19,806 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:49:19,998 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 3 column 19 (char 37)
+2024-11-10 20:49:20,302 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:49:20,759 INFO:Business structure analysis completed successfully.
+2024-11-10 20:49:20,760 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-10 20:49:20,760 INFO:Business structure analysis stored successfully.
+2024-11-10 20:49:20,782 INFO:Starting report generation.
+2024-11-10 20:49:20,782 INFO:Aggregated data for idea_id: idea_007
+2024-11-10 20:49:21,302 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:49:22,431 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-10 20:49:22,989 INFO:Report generation completed successfully.
+2024-11-10 20:49:22,989 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-10 20:49:22,989 INFO:Comprehensive report stored successfully.
+2024-11-11 18:47:18,534 INFO:Starting StartupGPT Workflow
+2024-11-11 18:47:18,558 INFO:Starting legal analysis.
+2024-11-11 18:47:18,991 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:47:19,689 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:47:20,261 ERROR:Error decoding JSON response: Expecting ':' delimiter: line 1 column 26 (char 25)
+2024-11-11 18:47:20,614 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:47:21,096 INFO:Legal analysis completed successfully.
+2024-11-11 18:47:21,097 INFO:Stored Legal output for idea_id: idea_007
+2024-11-11 18:47:21,097 INFO:Legal analysis stored successfully.
+2024-11-11 18:47:21,120 INFO:Starting economic analysis.
+2024-11-11 18:47:21,574 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:47:22,062 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-11 18:47:22,062 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : value must be a string) OR ('messages.0.content.0' : one of the following must be satisfied[('messages.0.content.0' : value must be an object) OR ('messages.0.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}}
+2024-11-11 18:47:22,423 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:47:22,790 ERROR:Error formatting analysis: 'str' object has no attribute 'get'
+2024-11-11 18:47:22,790 INFO:Economic analysis completed successfully.
+2024-11-11 18:47:22,791 INFO:Stored Economics output for idea_id: idea_007
+2024-11-11 18:47:22,791 INFO:Economic analysis stored successfully.
+2024-11-11 18:47:22,814 INFO:Starting business structure analysis.
+2024-11-11 18:47:23,158 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:47:23,901 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:47:24,560 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:47:25,028 INFO:Business structure analysis completed successfully.
+2024-11-11 18:47:25,029 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-11 18:47:25,029 INFO:Business structure analysis stored successfully.
+2024-11-11 18:47:25,051 INFO:Starting report generation.
+2024-11-11 18:47:25,052 INFO:Aggregated data for idea_id: idea_007
+2024-11-11 18:47:25,679 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:47:26,645 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:47:27,287 INFO:Report generation completed successfully.
+2024-11-11 18:47:27,288 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-11 18:47:27,288 INFO:Comprehensive report stored successfully.
+2024-11-11 18:49:20,439 INFO:Starting StartupGPT Workflow
+2024-11-11 18:49:20,462 INFO:Starting legal analysis.
+2024-11-11 18:49:20,829 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:49:21,577 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:49:22,727 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:49:23,113 INFO:Legal analysis completed successfully.
+2024-11-11 18:49:23,114 INFO:Stored Legal output for idea_id: idea_007
+2024-11-11 18:49:23,114 INFO:Legal analysis stored successfully.
+2024-11-11 18:49:23,136 INFO:Starting economic analysis.
+2024-11-11 18:49:23,479 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:49:24,050 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-11-11 18:49:24,051 ERROR:Error sending prompt to Llama via Groq: Error code: 400 - {'error': {'message': "'messages.0' : for 'role:user' the following must be satisfied[('messages.0.content' : one of the following must be satisfied[('messages.0.content' : value must be a string) OR ('messages.0.content.0' : one of the following must be satisfied[('messages.0.content.0' : value must be an object) OR ('messages.0.content.0' : value must be an object)])])]", 'type': 'invalid_request_error'}}
+2024-11-11 18:49:24,357 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:49:24,616 ERROR:Error formatting analysis: 'str' object has no attribute 'get'
+2024-11-11 18:49:24,616 INFO:Economic analysis completed successfully.
+2024-11-11 18:49:24,616 INFO:Stored Economics output for idea_id: idea_007
+2024-11-11 18:49:24,616 INFO:Economic analysis stored successfully.
+2024-11-11 18:49:24,639 INFO:Starting business structure analysis.
+2024-11-11 18:49:24,958 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:49:25,828 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:49:26,484 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:49:26,887 INFO:Business structure analysis completed successfully.
+2024-11-11 18:49:26,888 INFO:Stored BusinessStructure output for idea_id: idea_007
+2024-11-11 18:49:26,888 INFO:Business structure analysis stored successfully.
+2024-11-11 18:49:26,910 INFO:Starting report generation.
+2024-11-11 18:49:26,910 INFO:Aggregated data for idea_id: idea_007
+2024-11-11 18:49:27,428 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:49:28,337 INFO:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-11 18:49:28,749 INFO:Report generation completed successfully.
+2024-11-11 18:49:28,749 INFO:Stored ComprehensiveReport output for idea_id: idea_007
+2024-11-11 18:49:28,749 INFO:Comprehensive report stored successfully.

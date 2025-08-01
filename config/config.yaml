@@ -1,0 +1,20 @@
+langgraph:
+  workflows_path: "workflows/startupgpt_workflow.yaml"
+  logging:
+    level: "INFO"
+    file: "startupgpt.log"
+  resources:
+    max_workers: 10
+
+agents:
+  legal_agent:
+    llama_api_key: "${LEGAL_AGENT_API_KEY}"
+
+  economics_agent:
+    llama_api_key: "${ECONOMICS_AGENT_API_KEY}"
+
+  business_structure_agent:
+    llama_api_key: "${BUSINESS_STRUCTURE_AGENT_API_KEY}"
+
+  generalized_agent:
+    llama_api_key: "${GENERALIZED_AGENT_API_KEY}"

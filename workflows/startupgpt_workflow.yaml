@@ -1,0 +1,52 @@
+version: "1.0"
+workflow:
+  name: "StartupGPTWorkflow"
+  steps:
+    - name: "ReceiveUserInput"
+      type: "input"
+      function: "receive_startup_idea_details"
+
+    - name: "InvokeLegalAgent"
+      type: "agent"
+      agent: "LegalAgent"
+      dependencies: ["ReceiveUserInput"]
+
+    - name: "StoreLegalOutput"
+      type: "storage"
+      function: "store_output"
+      dependencies: ["InvokeLegalAgent"]
+
+    - name: "InvokeEconomicsAgent"
+      type: "agent"
+      agent: "EconomicsAgent"
+      dependencies: ["StoreLegalOutput"]
+
+    - name: "StoreEconomicsOutput"
+      type: "storage"
+      function: "store_output"
+      dependencies: ["InvokeEconomicsAgent"]
+
+    - name: "InvokeBusinessStructureAgent"
+      type: "agent"
+      agent: "BusinessStructureAgent"
+      dependencies: ["StoreEconomicsOutput"]
+
+    - name: "StoreBusinessOutput"
+      type: "storage"
+      function: "store_output"
+      dependencies: ["InvokeBusinessStructureAgent"]
+
+    - name: "InvokeGeneralizedAgent"
+      type: "agent"
+      agent: "GeneralizedAgent"
+      dependencies: ["StoreBusinessOutput"]
+
+    - name: "CompileFinalReport"
+      type: "output"
+      function: "generate_report"
+      dependencies: ["InvokeGeneralizedAgent"]
+
+    - name: "OutputReport"
+      type: "output"
+      function: "deliver_report_to_user"
+      dependencies: ["CompileFinalReport"]
